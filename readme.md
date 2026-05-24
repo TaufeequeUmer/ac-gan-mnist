@@ -30,15 +30,23 @@ $$L_C = \mathbb{E}[\log P(C=c \mid X_{real})] + \mathbb{E}[\log P(C=c \mid X_{fa
 * **Framework:** TensorFlow / Keras
 * **Libraries:** NumPy, Matplotlib
 
-## 🚀 How to Run
+## 🚀 How to Run (Make sure you have python installed)
 
 1. Clone the repository:
+    ```bash
    git clone [https://github.com/TaufeequeUmer/ac-gan-mnist.git](https://github.com/TaufeequeUmer/ac-gan-mnist.git)
+   ```
 
 2. Install the requirements
+     ```bash
+    cd ac-gan-mnist
     pip install -r requirements.txt
+    ```
 
 3. Open the Jupyter Notebook and execute the cells sequentially to train the model and generate digits.
+    ```bash
+    jupyter notebook AC-GAN_notebook.ipynb
+    ```
 
 ## 📊 Results
 
