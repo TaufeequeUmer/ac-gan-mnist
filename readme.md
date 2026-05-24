@@ -34,7 +34,7 @@ $$L_C = \mathbb{E}[\log P(C=c \mid X_{real})] + \mathbb{E}[\log P(C=c \mid X_{fa
 
 1. Clone the repository:
     ```bash
-   git clone [https://github.com/TaufeequeUmer/ac-gan-mnist.git](https://github.com/TaufeequeUmer/ac-gan-mnist.git)
+   git clone https://github.com/TaufeequeUmer/ac-gan-mnist.git
    ```
 
 2. Install the requirements
